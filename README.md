@@ -17,7 +17,7 @@ Some details:
 
 I will link to each project that I complete. Some will be in this same repo, some bigger ones will have dedicated repos.
 
-**Note**: I have't ready any problem while creating this repo. I'll read them as I start solving the problems. Hence, there is no prior curation or filtering. Keeps things spicy. :)
+**Note**: I haven't ready any problem while creating this repo. I'll read them as I start solving the problems. Hence, there is no prior curation or filtering. Keeps things spicy. :)
 
 ==============================
 
@@ -57,7 +57,7 @@ Numbers
 Text
 ---------
 
-**Reverse a String** – Enter a string and the program will reverse it and print it out.
+[**Reverse a String**](https://github.com/mang0/Projects/blob/master/Text/ReverseString.py) – Enter a string and the program will reverse it and print it out.
 
 **Pig Latin** – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
